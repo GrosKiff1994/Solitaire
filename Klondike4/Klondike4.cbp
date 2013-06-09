@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Klondike4" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Option virtualFolders="affichage\;structures\;jeu\;scores\;" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Klondike4" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Klondike4" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wunreachable-code" />
+			<Add option="-pedantic" />
+			<Add option="-Wextra" />
+			<Add option="-Wall" />
+			<Add option="-std=c99" />
+			<Add option="`sdl-config --cflags`" />
+			<Add directory="C:/Users/Yann/Downloads/SDL-devel-1.2.15-mingw32.tar/SDL-devel-1.2.15-mingw32/SDL-1.2.15/include" />
+		</Compiler>
+		<Linker>
+			<Add option="`sdl-config --libs`" />
+			<Add library="mingw32" />
+			<Add library="SDLmain" />
+			<Add library="SDL" />
+			<Add library="C:\Users\Yann\Downloads\SDL-devel-1.2.15-mingw32.tar\SDL-devel-1.2.15-mingw32\SDL-1.2.15\lib\x86\SDL_ttf.lib" />
+			<Add directory="C:/Users/Yann/Downloads/SDL-devel-1.2.15-mingw32.tar/SDL-devel-1.2.15-mingw32/SDL-1.2.15/lib" />
+		</Linker>
+		<Unit filename="define.h" />
+		<Unit filename="define_affichage.h">
+			<Option virtualFolder="affichage/" />
+		</Unit>
+		<Unit filename="define_algo.h">
+			<Option virtualFolder="structures/" />
+		</Unit>
+		<Unit filename="fonctgraph.c">
+			<Option compilerVar="CC" />
+			<Option virtualFolder="affichage/" />
+		</Unit>
+		<Unit filename="fonctgraph.h">
+			<Option virtualFolder="affichage/" />
+		</Unit>
+		<Unit filename="jeu.c">
+			<Option compilerVar="CC" />
+			<Option virtualFolder="jeu/" />
+		</Unit>
+		<Unit filename="jeu.h">
+			<Option virtualFolder="jeu/" />
+		</Unit>
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="scores.c">
+			<Option compilerVar="CC" />
+			<Option virtualFolder="scores/" />
+		</Unit>
+		<Unit filename="scores.h">
+			<Option virtualFolder="scores/" />
+		</Unit>
+		<Unit filename="structure.c">
+			<Option compilerVar="CC" />
+			<Option virtualFolder="structures/" />
+		</Unit>
+		<Unit filename="structure.h">
+			<Option virtualFolder="structures/" />
+		</Unit>
+		<Unit filename="util.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="util.h" />
+		<Extensions>
+			<code_completion>
+				<search_path add="C:\Users\Yann\Downloads\SDL-devel-1.2.15-mingw32.tar\SDL-devel-1.2.15-mingw32\SDL-1.2.15\include" />
+				<search_path add="/usr/include" />
+			</code_completion>
+			<debugger />
+			<envvars />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

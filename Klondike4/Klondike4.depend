@@ -1,0 +1,1161 @@
+# depslib dependency file v1.0
+1367337150 source:/home/pgeffrriaud/Klondike4/fonctgraph.c
+	<SDL/SDL.h>
+	"define.h"
+	"define_algo.h"
+	"define_affichage.h"
+	"fonctgraph.h"
+
+1370360081 h.h"
+
+1366654246 /home/pgeffrriaud/Klondike4/define.h
+
+1366734217 /home/pgeffrriaud/Klondike4/define_algo.h
+
+1367337662 /home/pgeffrriaud/Klondike4/define_affichage.h
+	<SDL/SDL.h>
+
+1370360960 >
+
+1366725140 /home/pgeffrriaud/Klondike4/fonctgraph.h
+	"define.h"
+	"define_algo.h"
+	"define_affichage.h"
+	"structure.h"
+
+1370360942 .h"
+
+1367333823 /home/pgeffrriaud/Klondike4/structure.h
+	"define.h"
+	"define_algo.h"
+	<stdbool.h>
+
+1367337216 source:/home/pgeffrriaud/Klondike4/jeu.c
+	<stdlib.h>
+	<stdio.h>
+	"structure.h"
+	"jeu.h"
+
+1367336804 /home/pgeffrriaud/Klondike4/jeu.h
+	"define.h"
+
+1367401410 
+
+1367319539 source:/home/pgeffrriaud/Klondike4/main.c
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<stdbool.h>
+	<SDL/SDL.h>
+	"define_algo.h"
+	"define_affichage.h"
+	"fonctgraph.h"
+	"jeu.h"
+
+1367333837 source:/home/pgeffrriaud/Klondike4/structure.c
+	"define.h"
+	"structure.h"
+	"util.h"
+
+1366654790 /home/pgeffrriaud/Klondike4/util.h
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+
+1366652126 source:/home/pgeffrriaud/Klondike4/util.c
+	"util.h"
+	<time.h>
+
+1367481109 source:/home/yann/Klondike4/fonctgraph.c
+	<SDL/SDL.h>
+	"define.h"
+	"define_algo.h"
+	"define_affichage.h"
+	"jeu.h"
+	"fonctgraph.h"
+	<SDL/SDL.h>
+	"define.h"
+	"define_algo.h"
+	"define_affichage.h"
+	"jeu.h"
+	"fonctgraph.h"
+
+1367354321 /home/yann/Klondike4/define.h
+
+1367354255 /home/yann/Klondike4/define_algo.h
+
+1367484691 /home/yann/Klondike4/define_affichage.h
+	<SDL/SDL.h>
+	<SDL/SDL.h>
+
+1367357440 /home/yann/Klondike4/fonctgraph.h
+	"util.h"
+	"define.h"
+	"define_algo.h"
+	"define_affichage.h"
+	"util.h"
+	"define.h"
+	"define_algo.h"
+	"define_affichage.h"
+
+1370183525 fichage.h"
+
+1367402969 /home/yann/Klondike4/structure.h
+	"define.h"
+	"define_algo.h"
+	<stdbool.h>
+	"define.h"
+	"define_algo.h"
+	<stdbool.h>
+
+1367957291 source:/home/yann/Klondike4/jeu.c
+	<stdlib.h>
+	<stdio.h>
+	"jeu.h"
+	<stdlib.h>
+	<stdio.h>
+	"jeu.h"
+
+1367417132 /home/yann/Klondike4/jeu.h
+	"define.h"
+	"structure.h"
+	"define.h"
+	"structure.h"
+
+1367961508 source:/home/yann/Klondike4/main.c
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<stdbool.h>
+	<SDL/SDL.h>
+	"define.h"
+	"define_algo.h"
+	"define_affichage.h"
+	"structure.h"
+	"jeu.h"
+	"fonctgraph.h"
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<stdbool.h>
+	<SDL/SDL.h>
+	"define.h"
+	"define_algo.h"
+	"define_affichage.h"
+	"structure.h"
+	"jeu.h"
+	"fonctgraph.h"
+
+1367428347 source:/home/yann/Klondike4/structure.c
+	<stdlib.h>
+	<stdio.h>
+	"define.h"
+	"util.h"
+	"structure.h"
+	<stdlib.h>
+	<stdio.h>
+	"define.h"
+	"util.h"
+	"structure.h"
+
+1367354290 /home/yann/Klondike4/util.h
+
+1367401408 source:/home/yann/Klondike4/util.c
+	<stdlib.h>
+	<stdio.h>
+	"util.h"
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+	"util.h"
+	<time.h>
+
+1368011621 source:d:\google drive\projet\klondike4\fonctgraph.c
+	<SDL/SDL.h>
+	"define.h"
+	"define_algo.h"
+	"define_affichage.h"
+	"jeu.h"
+	"fonctgraph.h"
+
+1367354321 d:\google drive\projet\klondike4\define.h
+
+1367354255 d:\google drive\projet\klondike4\define_algo.h
+
+1367484691 d:\google drive\projet\klondike4\define_affichage.h
+	<SDL/SDL.h>
+
+1367417132 d:\google drive\projet\klondike4\jeu.h
+	"define.h"
+	"structure.h"
+
+1367402969 d:\google drive\projet\klondike4\structure.h
+	"define.h"
+	"define_algo.h"
+	<stdbool.h>
+
+1367357440 d:\google drive\projet\klondike4\fonctgraph.h
+	"util.h"
+	"define.h"
+	"define_algo.h"
+	"define_affichage.h"
+
+1367354290 d:\google drive\projet\klondike4\util.h
+
+1367957291 source:d:\google drive\projet\klondike4\jeu.c
+	<stdlib.h>
+	<stdio.h>
+	"jeu.h"
+
+1367961508 source:d:\google drive\projet\klondike4\main.c
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<stdbool.h>
+	<SDL/SDL.h>
+	"define.h"
+	"define_algo.h"
+	"define_affichage.h"
+	"structure.h"
+	"jeu.h"
+	"fonctgraph.h"
+
+1367428347 source:d:\google drive\projet\klondike4\structure.c
+	<stdlib.h>
+	<stdio.h>
+	"define.h"
+	"util.h"
+	"structure.h"
+
+1367401408 source:d:\google drive\projet\klondike4\util.c
+	<stdlib.h>
+	<stdio.h>
+	"util.h"
+	<time.h>
+
+1325742239 c:\users\yann\downloads\sdl-devel-1.2.15-mingw32.tar\sdl-devel-1.2.15-mingw32\sdl-1.2.15\include\sdl\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1360429021 e.h"
+
+1325742239 c:\users\yann\downloads\sdl-devel-1.2.15-mingw32.tar\sdl-devel-1.2.15-mingw32\sdl-1.2.15\include\sdl\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\users\yann\downloads\sdl-devel-1.2.15-mingw32.tar\sdl-devel-1.2.15-mingw32\sdl-1.2.15\include\sdl\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1326114587 c:\users\yann\downloads\sdl-devel-1.2.15-mingw32.tar\sdl-devel-1.2.15-mingw32\sdl-1.2.15\include\sdl\sdl_config.h
+	"SDL_platform.h"
+	"SDL_config_dreamcast.h"
+	"SDL_config_macos.h"
+	"SDL_config_macosx.h"
+	"SDL_config_symbian.h"
+	"SDL_config_win32.h"
+	"SDL_config_os2.h"
+	"SDL_config_minimal.h"
+
+1326114587 g_minimal.h"
+
+1325742239 c:\users\yann\downloads\sdl-devel-1.2.15-mingw32.tar\sdl-devel-1.2.15-mingw32\sdl-1.2.15\include\sdl\sdl_platform.h
+
+1326114594 c:\users\yann\downloads\sdl-devel-1.2.15-mingw32.tar\sdl-devel-1.2.15-mingw32\sdl-1.2.15\include\sdl\sdl_config_win32.h
+	"SDL_platform.h"
+
+1326114594 orm.h"
+
+1326114600 c:\users\yann\downloads\sdl-devel-1.2.15-mingw32.tar\sdl-devel-1.2.15-mingw32\sdl-1.2.15\include\sdl\begin_code.h
+
+1325742239 c:\users\yann\downloads\sdl-devel-1.2.15-mingw32.tar\sdl-devel-1.2.15-mingw32\sdl-1.2.15\include\sdl\close_code.h
+
+1325742239 c:\users\yann\downloads\sdl-devel-1.2.15-mingw32.tar\sdl-devel-1.2.15-mingw32\sdl-1.2.15\include\sdl\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\users\yann\downloads\sdl-devel-1.2.15-mingw32.tar\sdl-devel-1.2.15-mingw32\sdl-1.2.15\include\sdl\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\users\yann\downloads\sdl-devel-1.2.15-mingw32.tar\sdl-devel-1.2.15-mingw32\sdl-1.2.15\include\sdl\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\users\yann\downloads\sdl-devel-1.2.15-mingw32.tar\sdl-devel-1.2.15-mingw32\sdl-1.2.15\include\sdl\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\users\yann\downloads\sdl-devel-1.2.15-mingw32.tar\sdl-devel-1.2.15-mingw32\sdl-1.2.15\include\sdl\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1325742239 c:\users\yann\downloads\sdl-devel-1.2.15-mingw32.tar\sdl-devel-1.2.15-mingw32\sdl-1.2.15\include\sdl\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\users\yann\downloads\sdl-devel-1.2.15-mingw32.tar\sdl-devel-1.2.15-mingw32\sdl-1.2.15\include\sdl\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\users\yann\downloads\sdl-devel-1.2.15-mingw32.tar\sdl-devel-1.2.15-mingw32\sdl-1.2.15\include\sdl\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\users\yann\downloads\sdl-devel-1.2.15-mingw32.tar\sdl-devel-1.2.15-mingw32\sdl-1.2.15\include\sdl\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\users\yann\downloads\sdl-devel-1.2.15-mingw32.tar\sdl-devel-1.2.15-mingw32\sdl-1.2.15\include\sdl\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\users\yann\downloads\sdl-devel-1.2.15-mingw32.tar\sdl-devel-1.2.15-mingw32\sdl-1.2.15\include\sdl\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\users\yann\downloads\sdl-devel-1.2.15-mingw32.tar\sdl-devel-1.2.15-mingw32\sdl-1.2.15\include\sdl\sdl_keysym.h
+
+1325742239 c:\users\yann\downloads\sdl-devel-1.2.15-mingw32.tar\sdl-devel-1.2.15-mingw32\sdl-1.2.15\include\sdl\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\users\yann\downloads\sdl-devel-1.2.15-mingw32.tar\sdl-devel-1.2.15-mingw32\sdl-1.2.15\include\sdl\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\users\yann\downloads\sdl-devel-1.2.15-mingw32.tar\sdl-devel-1.2.15-mingw32\sdl-1.2.15\include\sdl\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\users\yann\downloads\sdl-devel-1.2.15-mingw32.tar\sdl-devel-1.2.15-mingw32\sdl-1.2.15\include\sdl\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1325742239 c:\users\yann\downloads\sdl-devel-1.2.15-mingw32.tar\sdl-devel-1.2.15-mingw32\sdl-1.2.15\include\sdl\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\users\yann\downloads\sdl-devel-1.2.15-mingw32.tar\sdl-devel-1.2.15-mingw32\sdl-1.2.15\include\sdl\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\users\yann\downloads\sdl-devel-1.2.15-mingw32.tar\sdl-devel-1.2.15-mingw32\sdl-1.2.15\include\sdl\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1367428347 source:/media/yann/DATA/Google Drive/Projet/Klondike4/structure.c
+	<stdlib.h>
+	<stdio.h>
+	"define.h"
+	"util.h"
+	"structure.h"
+
+1367354321 /media/yann/DATA/Google Drive/Projet/Klondike4/define.h
+
+1367354290 /media/yann/DATA/Google Drive/Projet/Klondike4/util.h
+
+1367402969 /media/yann/DATA/Google Drive/Projet/Klondike4/structure.h
+	"define.h"
+	"define_algo.h"
+	<stdbool.h>
+
+1367354255 /media/yann/DATA/Google Drive/Projet/Klondike4/define_algo.h
+
+1367401408 source:/media/yann/DATA/Google Drive/Projet/Klondike4/util.c
+	<stdlib.h>
+	<stdio.h>
+	"util.h"
+	<time.h>
+
+1367481109 source:/media/yann/DATA/Google Drive/Projet/Klondike4/fonctgraph.c
+	<SDL/SDL.h>
+	"define.h"
+	"define_algo.h"
+	"define_affichage.h"
+	"jeu.h"
+	"fonctgraph.h"
+
+1367484691 /media/yann/DATA/Google Drive/Projet/Klondike4/define_affichage.h
+	<SDL/SDL.h>
+
+1367417132 /media/yann/DATA/Google Drive/Projet/Klondike4/jeu.h
+	"define.h"
+	"structure.h"
+
+1367357440 /media/yann/DATA/Google Drive/Projet/Klondike4/fonctgraph.h
+	"util.h"
+	"define.h"
+	"define_algo.h"
+	"define_affichage.h"
+
+1367437621 source:/media/yann/DATA/Google Drive/Projet/Klondike4/jeu.c
+	<stdlib.h>
+	<stdio.h>
+	"jeu.h"
+
+1367482674 source:/media/yann/DATA/Google Drive/Projet/Klondike4/main.c
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<stdbool.h>
+	<SDL/SDL.h>
+	"define.h"
+	"define_algo.h"
+	"define_affichage.h"
+	"structure.h"
+	"jeu.h"
+	"fonctgraph.h"
+
+1367481109 source:/media/yann/Google Drive/Projet/Klondike4/fonctgraph.c
+	<SDL/SDL.h>
+	"define.h"
+	"define_algo.h"
+	"define_affichage.h"
+	"jeu.h"
+	"fonctgraph.h"
+
+1367354321 /media/yann/Google Drive/Projet/Klondike4/define.h
+
+1367354255 /media/yann/Google Drive/Projet/Klondike4/define_algo.h
+
+1367484691 /media/yann/Google Drive/Projet/Klondike4/define_affichage.h
+	<SDL/SDL.h>
+
+1367417132 /media/yann/Google Drive/Projet/Klondike4/jeu.h
+	"define.h"
+	"structure.h"
+
+1367402969 /media/yann/Google Drive/Projet/Klondike4/structure.h
+	"define.h"
+	"define_algo.h"
+	<stdbool.h>
+
+1367357440 /media/yann/Google Drive/Projet/Klondike4/fonctgraph.h
+	"util.h"
+	"define.h"
+	"define_algo.h"
+	"define_affichage.h"
+
+1367354290 /media/yann/Google Drive/Projet/Klondike4/util.h
+
+1367957291 source:/media/yann/Google Drive/Projet/Klondike4/jeu.c
+	<stdlib.h>
+	<stdio.h>
+	"jeu.h"
+
+1367961508 source:/media/yann/Google Drive/Projet/Klondike4/main.c
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<stdbool.h>
+	<SDL/SDL.h>
+	"define.h"
+	"define_algo.h"
+	"define_affichage.h"
+	"structure.h"
+	"jeu.h"
+	"fonctgraph.h"
+
+1367428347 source:/media/yann/Google Drive/Projet/Klondike4/structure.c
+	<stdlib.h>
+	<stdio.h>
+	"define.h"
+	"util.h"
+	"structure.h"
+
+1367401408 source:/media/yann/Google Drive/Projet/Klondike4/util.c
+	<stdlib.h>
+	<stdio.h>
+	"util.h"
+	<time.h>
+
+1368011622 source:c:\users\kevin\desktop\klondike_dernier_sources\klondike4\fonctgraph.c
+	<SDL/SDL.h>
+	"define.h"
+	"define_algo.h"
+	"define_affichage.h"
+	"jeu.h"
+	"fonctgraph.h"
+
+1367354322 c:\users\kevin\desktop\klondike_dernier_sources\klondike4\define.h
+
+1367354256 c:\users\kevin\desktop\klondike_dernier_sources\klondike4\define_algo.h
+
+1367484692 c:\users\kevin\desktop\klondike_dernier_sources\klondike4\define_affichage.h
+	<SDL/SDL.h>
+
+1368296628 c:\users\kevin\desktop\klondike_dernier_sources\klondike4\jeu.h
+	"define.h"
+	"structure.h"
+
+1368296615 c:\users\kevin\desktop\klondike_dernier_sources\klondike4\structure.h
+	"define.h"
+	"define_algo.h"
+	<stdbool.h>
+
+1367357442 c:\users\kevin\desktop\klondike_dernier_sources\klondike4\fonctgraph.h
+	"util.h"
+	"define.h"
+	"define_algo.h"
+	"define_affichage.h"
+
+1367354292 c:\users\kevin\desktop\klondike_dernier_sources\klondike4\util.h
+
+1368295384 source:c:\users\kevin\desktop\klondike_dernier_sources\klondike4\jeu.c
+	<stdlib.h>
+	<stdio.h>
+	"jeu.h"
+
+1368293570 source:c:\users\kevin\desktop\klondike_dernier_sources\klondike4\main.c
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<stdbool.h>
+	<SDL/SDL.h>
+	"define.h"
+	"define_algo.h"
+	"define_affichage.h"
+	"structure.h"
+	"jeu.h"
+	"fonctgraph.h"
+
+1368292842 source:c:\users\kevin\desktop\klondike_dernier_sources\klondike4\structure.c
+	<stdlib.h>
+	<stdio.h>
+	"define.h"
+	"util.h"
+	"structure.h"
+
+1367401410 source:c:\users\kevin\desktop\klondike_dernier_sources\klondike4\util.c
+	<stdlib.h>
+	<stdio.h>
+	"util.h"
+	<time.h>
+
+1368011622 source:c:\users\yann\desktop\klondike_modif\klondike_dernier_sources\klondike4\fonctgraph.c
+	<SDL/SDL.h>
+	"define.h"
+	"define_algo.h"
+	"define_affichage.h"
+	"jeu.h"
+	"fonctgraph.h"
+
+1367354322 c:\users\yann\desktop\klondike_modif\klondike_dernier_sources\klondike4\define.h
+
+1367354256 c:\users\yann\desktop\klondike_modif\klondike_dernier_sources\klondike4\define_algo.h
+
+1367484692 c:\users\yann\desktop\klondike_modif\klondike_dernier_sources\klondike4\define_affichage.h
+	<SDL/SDL.h>
+
+1368296628 c:\users\yann\desktop\klondike_modif\klondike_dernier_sources\klondike4\jeu.h
+	"define.h"
+	"structure.h"
+
+1368296614 c:\users\yann\desktop\klondike_modif\klondike_dernier_sources\klondike4\structure.h
+	"define.h"
+	"define_algo.h"
+	<stdbool.h>
+
+1367357442 c:\users\yann\desktop\klondike_modif\klondike_dernier_sources\klondike4\fonctgraph.h
+	"util.h"
+	"define.h"
+	"define_algo.h"
+	"define_affichage.h"
+
+1367354292 c:\users\yann\desktop\klondike_modif\klondike_dernier_sources\klondike4\util.h
+
+1368295384 source:c:\users\yann\desktop\klondike_modif\klondike_dernier_sources\klondike4\jeu.c
+	<stdlib.h>
+	<stdio.h>
+	"jeu.h"
+
+1368293570 source:c:\users\yann\desktop\klondike_modif\klondike_dernier_sources\klondike4\main.c
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<stdbool.h>
+	<SDL/SDL.h>
+	"define.h"
+	"define_algo.h"
+	"define_affichage.h"
+	"structure.h"
+	"jeu.h"
+	"fonctgraph.h"
+
+1368292842 source:c:\users\yann\desktop\klondike_modif\klondike_dernier_sources\klondike4\structure.c
+	<stdlib.h>
+	<stdio.h>
+	"define.h"
+	"util.h"
+	"structure.h"
+
+1367401410 source:c:\users\yann\desktop\klondike_modif\klondike_dernier_sources\klondike4\util.c
+	<stdlib.h>
+	<stdio.h>
+	"util.h"
+	<time.h>
+
+1368011622 source:/media/yann/0480B6FF80B6F670/Users/Yann/Desktop/Klondike_modif/Klondike_dernier_sources/Klondike4/fonctgraph.c
+	<SDL/SDL.h>
+	"define.h"
+	"define_algo.h"
+	"define_affichage.h"
+	"jeu.h"
+	"fonctgraph.h"
+
+1367354322 /media/yann/0480B6FF80B6F670/Users/Yann/Desktop/Klondike_modif/Klondike_dernier_sources/Klondike4/define.h
+
+1367354256 /media/yann/0480B6FF80B6F670/Users/Yann/Desktop/Klondike_modif/Klondike_dernier_sources/Klondike4/define_algo.h
+
+1367484692 /media/yann/0480B6FF80B6F670/Users/Yann/Desktop/Klondike_modif/Klondike_dernier_sources/Klondike4/define_affichage.h
+	<SDL/SDL.h>
+
+1368296628 /media/yann/0480B6FF80B6F670/Users/Yann/Desktop/Klondike_modif/Klondike_dernier_sources/Klondike4/jeu.h
+	"define.h"
+	"structure.h"
+
+1368296614 /media/yann/0480B6FF80B6F670/Users/Yann/Desktop/Klondike_modif/Klondike_dernier_sources/Klondike4/structure.h
+	"define.h"
+	"define_algo.h"
+	<stdbool.h>
+
+1367357442 /media/yann/0480B6FF80B6F670/Users/Yann/Desktop/Klondike_modif/Klondike_dernier_sources/Klondike4/fonctgraph.h
+	"util.h"
+	"define.h"
+	"define_algo.h"
+	"define_affichage.h"
+
+1367354292 /media/yann/0480B6FF80B6F670/Users/Yann/Desktop/Klondike_modif/Klondike_dernier_sources/Klondike4/util.h
+
+1368295384 source:/media/yann/0480B6FF80B6F670/Users/Yann/Desktop/Klondike_modif/Klondike_dernier_sources/Klondike4/jeu.c
+	<stdlib.h>
+	<stdio.h>
+	"jeu.h"
+
+1368293570 source:/media/yann/0480B6FF80B6F670/Users/Yann/Desktop/Klondike_modif/Klondike_dernier_sources/Klondike4/main.c
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<stdbool.h>
+	<SDL/SDL.h>
+	"define.h"
+	"define_algo.h"
+	"define_affichage.h"
+	"structure.h"
+	"jeu.h"
+	"fonctgraph.h"
+
+1368292842 source:/media/yann/0480B6FF80B6F670/Users/Yann/Desktop/Klondike_modif/Klondike_dernier_sources/Klondike4/structure.c
+	<stdlib.h>
+	<stdio.h>
+	"define.h"
+	"util.h"
+	"structure.h"
+
+1367401410 source:/media/yann/0480B6FF80B6F670/Users/Yann/Desktop/Klondike_modif/Klondike_dernier_sources/Klondike4/util.c
+	<stdlib.h>
+	<stdio.h>
+	"util.h"
+	<time.h>
+
+1370184133 source:/media/yann/Google Drive/Projet/Klondike_modif/Klondike_dernier_sources/Klondike4/fonctgraph.c
+	<SDL/SDL.h>
+	<SDL/SDL_ttf.h>
+	"define.h"
+	"define_algo.h"
+	"define_affichage.h"
+	"jeu.h"
+	"fonctgraph.h"
+
+1367354322 /media/yann/Google Drive/Projet/Klondike_modif/Klondike_dernier_sources/Klondike4/define.h
+
+1367354256 /media/yann/Google Drive/Projet/Klondike_modif/Klondike_dernier_sources/Klondike4/define_algo.h
+
+1370184049 /media/yann/Google Drive/Projet/Klondike_modif/Klondike_dernier_sources/Klondike4/define_affichage.h
+	<SDL/SDL.h>
+
+1370183491 /media/yann/Google Drive/Projet/Klondike_modif/Klondike_dernier_sources/Klondike4/jeu.h
+	"define.h"
+	"structure.h"
+
+1369858470 /media/yann/Google Drive/Projet/Klondike_modif/Klondike_dernier_sources/Klondike4/structure.h
+	"define.h"
+	"define_algo.h"
+	<stdbool.h>
+
+1370183525 /media/yann/Google Drive/Projet/Klondike_modif/Klondike_dernier_sources/Klondike4/fonctgraph.h
+	"util.h"
+	"define.h"
+	"define_algo.h"
+	"define_affichage.h"
+
+1367354292 /media/yann/Google Drive/Projet/Klondike_modif/Klondike_dernier_sources/Klondike4/util.h
+
+1370183455 source:/media/yann/Google Drive/Projet/Klondike_modif/Klondike_dernier_sources/Klondike4/jeu.c
+	<stdlib.h>
+	<stdio.h>
+	"jeu.h"
+
+1370184140 source:/media/yann/Google Drive/Projet/Klondike_modif/Klondike_dernier_sources/Klondike4/main.c
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<stdbool.h>
+	<SDL/SDL.h>
+	<SDL/SDL_ttf.h>
+	"define.h"
+	"define_algo.h"
+	"define_affichage.h"
+	"structure.h"
+	"jeu.h"
+	"fonctgraph.h"
+	"scores.h"
+
+1369858445 source:/media/yann/Google Drive/Projet/Klondike_modif/Klondike_dernier_sources/Klondike4/structure.c
+	<stdlib.h>
+	<stdio.h>
+	"define.h"
+	"util.h"
+	"structure.h"
+
+1367401410 source:/media/yann/Google Drive/Projet/Klondike_modif/Klondike_dernier_sources/Klondike4/util.c
+	<stdlib.h>
+	<stdio.h>
+	"util.h"
+	<time.h>
+
+1370183373 source:/media/yann/Google Drive/Projet/Klondike_modif/Klondike_dernier_sources/Klondike4/scores.c
+	<SDL/SDL.h>
+	<SDL/SDL_ttf.h>
+	"scores.h"
+
+1370179313 /media/yann/Google Drive/Projet/Klondike_modif/Klondike_dernier_sources/Klondike4/scores.h
+
+1370360081 source:/media/yann/Google Drive/Projet/Klondike-Rejouer-Victoire/Klondike4/fonctgraph.c
+	<SDL/SDL.h>
+	<SDL/SDL_ttf.h>
+	"define.h"
+	"define_algo.h"
+	"define_affichage.h"
+	"jeu.h"
+	"fonctgraph.h"
+	<SDL/SDL.h>
+	<SDL/SDL_ttf.h>
+	"define.h"
+	"define_algo.h"
+	"define_affichage.h"
+	"jeu.h"
+	"fonctgraph.h"
+
+1367354322 /media/yann/Google Drive/Projet/Klondike-Rejouer-Victoire/Klondike4/define.h
+
+1367354256 /media/yann/Google Drive/Projet/Klondike-Rejouer-Victoire/Klondike4/define_algo.h
+
+1370300430 /media/yann/Google Drive/Projet/Klondike-Rejouer-Victoire/Klondike4/define_affichage.h
+	<SDL/SDL.h>
+	<SDL/SDL.h>
+
+1370360800 /media/yann/Google Drive/Projet/Klondike-Rejouer-Victoire/Klondike4/jeu.h
+	"define.h"
+	"structure.h"
+	"define.h"
+	"structure.h"
+
+1370360960 /media/yann/Google Drive/Projet/Klondike-Rejouer-Victoire/Klondike4/structure.h
+	"define.h"
+	"define_algo.h"
+	<stdbool.h>
+	"define.h"
+	"define_algo.h"
+	<stdbool.h>
+
+1370183525 /media/yann/Google Drive/Projet/Klondike-Rejouer-Victoire/Klondike4/fonctgraph.h
+	"util.h"
+	"define.h"
+	"define_algo.h"
+	"define_affichage.h"
+	"util.h"
+	"define.h"
+	"define_algo.h"
+	"define_affichage.h"
+
+1367354292 /media/yann/Google Drive/Projet/Klondike-Rejouer-Victoire/Klondike4/util.h
+
+1370360826 source:/media/yann/Google Drive/Projet/Klondike-Rejouer-Victoire/Klondike4/jeu.c
+	<stdlib.h>
+	<stdio.h>
+	"jeu.h"
+	<stdlib.h>
+	<stdio.h>
+	"jeu.h"
+
+1370360921 source:/media/yann/Google Drive/Projet/Klondike-Rejouer-Victoire/Klondike4/scores.c
+	<SDL/SDL.h>
+	<SDL/SDL_ttf.h>
+	"scores.h"
+	<SDL/SDL.h>
+	<SDL/SDL_ttf.h>
+	"scores.h"
+
+1370179313 /media/yann/Google Drive/Projet/Klondike-Rejouer-Victoire/Klondike4/scores.h
+
+1370360942 source:/media/yann/Google Drive/Projet/Klondike-Rejouer-Victoire/Klondike4/structure.c
+	<stdlib.h>
+	<stdio.h>
+	"define.h"
+	"util.h"
+	"structure.h"
+	<stdlib.h>
+	<stdio.h>
+	"define.h"
+	"util.h"
+	"structure.h"
+
+1367401410 source:/media/yann/Google Drive/Projet/Klondike-Rejouer-Victoire/Klondike4/util.c
+	<stdlib.h>
+	<stdio.h>
+	"util.h"
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+	"util.h"
+	<time.h>
+
+1370415876 source:/media/yann/Google Drive/Projet/Klondike-Rejouer-Victoire/Klondike4/main.c
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<stdbool.h>
+	<SDL/SDL.h>
+	<SDL/SDL_ttf.h>
+	"define.h"
+	"define_algo.h"
+	"define_affichage.h"
+	"structure.h"
+	"jeu.h"
+	"fonctgraph.h"
+	"scores.h"
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<stdbool.h>
+	<SDL/SDL.h>
+	<SDL/SDL_ttf.h>
+	"define.h"
+	"define_algo.h"
+	"define_affichage.h"
+	"structure.h"
+	"jeu.h"
+	"fonctgraph.h"
+	"scores.h"
+
+1370360081 source:d:\google drive\projet\klondike-rejouer-victoire\klondike4\fonctgraph.c
+	<SDL/SDL.h>
+	<SDL/SDL_ttf.h>
+	"define.h"
+	"define_algo.h"
+	"define_affichage.h"
+	"jeu.h"
+	"fonctgraph.h"
+
+1360429021 c:\users\yann\downloads\sdl-devel-1.2.15-mingw32.tar\sdl-devel-1.2.15-mingw32\sdl-1.2.15\include\sdl\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1367354322 d:\google drive\projet\klondike-rejouer-victoire\klondike4\define.h
+
+1367354256 d:\google drive\projet\klondike-rejouer-victoire\klondike4\define_algo.h
+
+1370300430 d:\google drive\projet\klondike-rejouer-victoire\klondike4\define_affichage.h
+	<SDL/SDL.h>
+
+1370360800 d:\google drive\projet\klondike-rejouer-victoire\klondike4\jeu.h
+	"define.h"
+	"structure.h"
+
+1370360960 d:\google drive\projet\klondike-rejouer-victoire\klondike4\structure.h
+	"define.h"
+	"define_algo.h"
+	<stdbool.h>
+
+1370183525 d:\google drive\projet\klondike-rejouer-victoire\klondike4\fonctgraph.h
+	"util.h"
+	"define.h"
+	"define_algo.h"
+	"define_affichage.h"
+
+1367354292 d:\google drive\projet\klondike-rejouer-victoire\klondike4\util.h
+
+1370360826 source:d:\google drive\projet\klondike-rejouer-victoire\klondike4\jeu.c
+	<stdlib.h>
+	<stdio.h>
+	"jeu.h"
+
+1370360989 source:d:\google drive\projet\klondike-rejouer-victoire\klondike4\main.c
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<stdbool.h>
+	<SDL/SDL.h>
+	<SDL/SDL_ttf.h>
+	"define.h"
+	"define_algo.h"
+	"define_affichage.h"
+	"structure.h"
+	"jeu.h"
+	"fonctgraph.h"
+	"scores.h"
+
+1370179313 d:\google drive\projet\klondike-rejouer-victoire\klondike4\scores.h
+
+1370360921 source:d:\google drive\projet\klondike-rejouer-victoire\klondike4\scores.c
+	<SDL/SDL.h>
+	<SDL/SDL_ttf.h>
+	"scores.h"
+
+1370360942 source:d:\google drive\projet\klondike-rejouer-victoire\klondike4\structure.c
+	<stdlib.h>
+	<stdio.h>
+	"define.h"
+	"util.h"
+	"structure.h"
+
+1367401410 source:d:\google drive\projet\klondike-rejouer-victoire\klondike4\util.c
+	<stdlib.h>
+	<stdio.h>
+	"util.h"
+	<time.h>
+
+1370467544 source:/media/yann/Google Drive/Projet/Klondike-Surprise/Klondike4/fonctgraph.c
+	<SDL/SDL.h>
+	<SDL/SDL_ttf.h>
+	"define.h"
+	"define_algo.h"
+	"define_affichage.h"
+	"jeu.h"
+	"fonctgraph.h"
+
+1367354322 /media/yann/Google Drive/Projet/Klondike-Surprise/Klondike4/define.h
+
+1367354256 /media/yann/Google Drive/Projet/Klondike-Surprise/Klondike4/define_algo.h
+
+1370300430 /media/yann/Google Drive/Projet/Klondike-Surprise/Klondike4/define_affichage.h
+	<SDL/SDL.h>
+
+1370462679 /media/yann/Google Drive/Projet/Klondike-Surprise/Klondike4/jeu.h
+	"define.h"
+	"structure.h"
+
+1370360960 /media/yann/Google Drive/Projet/Klondike-Surprise/Klondike4/structure.h
+	"define.h"
+	"define_algo.h"
+	<stdbool.h>
+
+1370466237 /media/yann/Google Drive/Projet/Klondike-Surprise/Klondike4/fonctgraph.h
+	"util.h"
+	"define.h"
+	"define_algo.h"
+	"define_affichage.h"
+
+1367354292 /media/yann/Google Drive/Projet/Klondike-Surprise/Klondike4/util.h
+
+1370360921 source:/media/yann/Google Drive/Projet/Klondike-Surprise/Klondike4/scores.c
+	<SDL/SDL.h>
+	<SDL/SDL_ttf.h>
+	"scores.h"
+
+1370179313 /media/yann/Google Drive/Projet/Klondike-Surprise/Klondike4/scores.h
+
+1370360942 source:/media/yann/Google Drive/Projet/Klondike-Surprise/Klondike4/structure.c
+	<stdlib.h>
+	<stdio.h>
+	"define.h"
+	"util.h"
+	"structure.h"
+
+1367401410 source:/media/yann/Google Drive/Projet/Klondike-Surprise/Klondike4/util.c
+	<stdlib.h>
+	<stdio.h>
+	"util.h"
+	<time.h>
+
+1370462672 source:/media/yann/Google Drive/Projet/Klondike-Surprise/Klondike4/jeu.c
+	<stdlib.h>
+	<stdio.h>
+	"jeu.h"
+
+1370467819 source:/media/yann/Google Drive/Projet/Klondike-Surprise/Klondike4/main.c
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<stdbool.h>
+	<SDL/SDL.h>
+	<SDL/SDL_ttf.h>
+	"define.h"
+	"define_algo.h"
+	"define_affichage.h"
+	"structure.h"
+	"jeu.h"
+	"fonctgraph.h"
+	"scores.h"
+
+1370467544 source:d:\google drive\projet\klondike-surprise\klondike4\fonctgraph.c
+	<SDL/SDL.h>
+	<SDL/SDL_ttf.h>
+	"define.h"
+	"define_algo.h"
+	"define_affichage.h"
+	"jeu.h"
+	"fonctgraph.h"
+
+1367354322 d:\google drive\projet\klondike-surprise\klondike4\define.h
+
+1367354256 d:\google drive\projet\klondike-surprise\klondike4\define_algo.h
+
+1370300430 d:\google drive\projet\klondike-surprise\klondike4\define_affichage.h
+	<SDL/SDL.h>
+
+1370462679 d:\google drive\projet\klondike-surprise\klondike4\jeu.h
+	"define.h"
+	"structure.h"
+
+1370360960 d:\google drive\projet\klondike-surprise\klondike4\structure.h
+	"define.h"
+	"define_algo.h"
+	<stdbool.h>
+
+1370466237 d:\google drive\projet\klondike-surprise\klondike4\fonctgraph.h
+	"util.h"
+	"define.h"
+	"define_algo.h"
+	"define_affichage.h"
+
+1367354292 d:\google drive\projet\klondike-surprise\klondike4\util.h
+
+1370462672 source:d:\google drive\projet\klondike-surprise\klondike4\jeu.c
+	<stdlib.h>
+	<stdio.h>
+	"jeu.h"
+
+1370467819 source:d:\google drive\projet\klondike-surprise\klondike4\main.c
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<stdbool.h>
+	<SDL/SDL.h>
+	<SDL/SDL_ttf.h>
+	"define.h"
+	"define_algo.h"
+	"define_affichage.h"
+	"structure.h"
+	"jeu.h"
+	"fonctgraph.h"
+	"scores.h"
+
+1370179313 d:\google drive\projet\klondike-surprise\klondike4\scores.h
+
+1370360921 source:d:\google drive\projet\klondike-surprise\klondike4\scores.c
+	<SDL/SDL.h>
+	<SDL/SDL_ttf.h>
+	"scores.h"
+
+1370360942 source:d:\google drive\projet\klondike-surprise\klondike4\structure.c
+	<stdlib.h>
+	<stdio.h>
+	"define.h"
+	"util.h"
+	"structure.h"
+
+1367401410 source:d:\google drive\projet\klondike-surprise\klondike4\util.c
+	<stdlib.h>
+	<stdio.h>
+	"util.h"
+	<time.h>
+
